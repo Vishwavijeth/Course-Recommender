@@ -1,6 +1,6 @@
 # Course-Recommender
 
-This project implements a comprehensive AI-powered Course Recommender System using Streamlit, built as a capstone project for the IBM Machine Learning Professional Certificate. It features multiple recommendation algorithms, delivering course suggestions based on user preferences and ratings.
+This project implements a comprehensive AI-powered Course Recommender System using Streamlit. It features multiple recommendation algorithms, delivering course suggestions based on user preferences and ratings.
 
 ## Notebook overview
 
